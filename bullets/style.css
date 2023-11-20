@@ -1,0 +1,218 @@
+*{
+    background-color: bisque;
+}
+ul{
+background-color: blue;
+color: rgb(13, 19, 19);
+list-style-type: decimal;
+}
+
+.one{
+    list-style-image: url(./Green-check-mark-icon.png);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: large;
+    float: right;
+    border-radius: 20px;
+    border: solid ;
+    border-width: 40px;
+    border-color: rgb(12, 165, 196);
+}
+.two{
+    background-color: blueviolet;
+    color: rgb(16, 11, 11);
+    float: right;
+    list-style-type:upper-roman;
+    list-style-image: url(./images\ \(1\).png);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: large;
+    border-radius: 20px;
+    border:double;
+    border-width: 70px;
+    border-color: rgb(198, 231, 14);
+}
+
+.three{
+    background-color: rgb(9, 67, 47);
+    color: rgb(7, 3, 6);
+    float: right;
+    list-style-type: disc;
+    list-style-image: url(./apple-fruit-symbol-kawaii-cute-cartoon-vector-illustration-KPDCRB.jpg);
+   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+   font-size: medium;
+   border-radius: 20px;
+   border: solid ;
+   border-width: 10px;
+   border-color: rgb(108, 125, 70);
+}
+.four{
+    background-color: rgb(142, 127, 255);
+    color: rgb(38, 22, 34);
+    list-style-type: decimal-leading-zero;
+    font-family:Arial, Helvetica, sans-serif;
+   font-size: large;
+   float: right;
+   list-style-image: url(./images\ \(1\).png);
+   border-radius: 20px;
+   border: double;
+   border-width: 80px;
+   border-color:rgb(122, 50, 62);
+}
+.five{
+    background-color: rgb(52, 148, 89);
+    color: black;
+    list-style-type:square;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: large;
+    border-radius: 30px;
+    float: right;
+    border: dashed;
+    border-width: 30px;
+    border-color: rgb(196, 144, 12);
+}
+.six{
+    background-color: rgb(214, 255, 127);
+    color: black;
+    list-style-type: upper-alpha;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: large;
+    float: right;
+    border-radius: 50px;
+    border:ridge;
+    border-width: 50px;
+    border-color: rgb(12, 178, 196);
+}
+.seven{
+    background-color: rgb(251, 255, 127);
+    color: black;
+   list-style-type: circle;
+   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+   font-size: large;
+   float: right;
+   border-radius: 20px;
+   border: solid ;
+   border-width: 30px;
+   border-color: rgb(156, 196, 12);
+}
+.eight{
+    background-color: rgba(255, 127, 144, 0.768);
+    color: black;
+    list-style-type: upper-roman;
+    float: right;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: large;
+    border-radius: 80px;
+    border: dotted;
+    border-width: 10px;
+    border-color: rgb(12, 181, 196);
+}
+.nine{
+    background-color: rgb(9, 114, 114);
+    list-style-image: url(./Green-check-mark-icon.png);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: large;
+    float: right;
+    border-radius: 80px;
+    border: solid ;
+    border-width: 20px;
+    border-color: rgb(196, 12, 172);
+}
+ .ten{
+    background-color: rgb(9, 114, 114);
+    color: rgb(22, 11, 20);
+    float: right;
+    list-style-type: disc;
+    list-style-image: url(./apple-fruit-symbol-kawaii-cute-cartoon-vector-illustration-KPDCRB.jpg);
+   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+   font-size: medium;
+   border-radius: 20px;
+   border: solid ;
+   border-width: 30px;
+   border-color: rgb(108, 125, 70);}
+
+
+   .eleven{
+    background-color: rgb(226, 43, 144);
+    color: rgb(22, 10, 10);
+    float: right;
+    list-style-type:upper-roman;
+    list-style-image: url(./images\ \(1\).png);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: large;
+    border-radius: 20px;
+    border:double;
+    border-width: 70px;
+    border-color: rgb(198, 231, 14);
+}
+.twelve{
+    background-color: rgb(16, 143, 169);
+    color: rgb(4, 10, 11);
+    list-style-type: upper-alpha;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: large;
+    list-style-image: url(./download\ \(3\).png);
+    float: right;
+    border-radius: 35px;
+    border:ridge;
+    border-width: 40px;
+    border-color: rgb(196, 12, 129);
+}
+.thirteen{
+    background-color: rgb(251, 255, 127);
+    color: black;
+   list-style-type: circle;
+   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+   font-size: large;
+   float: right;
+   border-radius: 40px;
+   border: double;
+   border-width: 60px;
+   border-color: rgb(156, 196, 12);
+}
+.fourteen{
+    background-color: rgb(255, 253, 127);
+    color: black;
+    list-style-type: upper-alpha;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: large;
+    list-style-image: url(./download\ \(3\).png);
+    float: right;
+    border-radius: 50px;
+    border:ridge;
+    border-width: 50px;
+    border-color: rgb(196, 12, 129);}
+
+.fifteen{
+        background-color: rgb(255, 253, 127);
+        color: black;
+        list-style-type: upper-alpha;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        font-size: large;
+        float: right;
+        border-radius: 90px;
+        border:ridge;
+        border-width: 50px;
+        border-color: rgb(12, 196, 70);}
+    .sixteen{
+            background-color: rgb(9, 114, 114);
+            color: rgb(29, 15, 25);
+            float: right;
+            list-style-type: disc;
+            list-style-image: url(./apple-fruit-symbol-kawaii-cute-cartoon-vector-illustration-KPDCRB.jpg);
+           font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+           font-size: medium;
+           border-radius: 20px;
+           border: double;
+           border-width: 70px;
+           border-color: rgb(108, 125, 70);}
+     .seventeen{
+            background-color: rgb(52, 148, 89);
+            color: black;
+            list-style-type:square;
+            font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+            font-size: large;
+            border-radius: 30px;
+            float: right;
+            border: dashed;
+            border-width: 30px;
+            border-color: rgb(196, 144, 12);
+        }
